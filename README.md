@@ -2,7 +2,7 @@
 
 This repository contains my progress while learning Python fundamentals through [JomaClass] (Course seems to be shut down). It includes all assignments, exercises, and practice code.
 
-## 📂 Project Structure
+## 🏗️ Project Structure
 
 /repo-root  
 │
